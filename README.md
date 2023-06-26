@@ -18,13 +18,13 @@ To run this locally
 Clone the project
 
 ```bash
-  git clone https://github.com/vishal-1207/guess-my-number/
+  git clone https://github.com/vishal-1207/pig-game/
 ```
 
 Go to the project directory
 
 ```bash
-  cd guess-my-number
+  cd pig-game
 ```
 
 
