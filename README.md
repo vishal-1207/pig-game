@@ -3,7 +3,7 @@
 
 A simple [pig game](https://en.wikipedia.org/wiki/Pig_(dice_game)) game project from [The Complete JavaScript 2023: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann. 
 
-In this code along, tried to code this project from starter files using HTML, CSS and JavaScript.
+In this code along, I tried to code this project from starter files using HTML, CSS and JavaScript.
 
 
 ## Requirements
